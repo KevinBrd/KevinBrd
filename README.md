@@ -19,6 +19,6 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail">
 </a>
 
-<a href="https://www.linkedin.com/in/kévin-bourdon-973425205/">
+<a href="www.linkedin.com/in/kévin-bourdon/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
 </a>
