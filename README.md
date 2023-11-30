@@ -16,14 +16,14 @@
 </div>
 <div>
   <p>
-    <a href="https://github.com/KevinBrd/FC24_Visualisation">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinBrd&repo=FC24_Visualisation" alt="GitHub Stats" />
+    <a href="[https://github.com/KevinBrd/FC24_Visualisation](https://github.com/KevinBrd/FIFA_24_Visualization)">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinBrd&repo=FIFA_24_Visualization" alt="GitHub Stats" />
     </a>
   </p>
 </div>
 
 <h2>📫 How to reach me</h2>
-<a href="mailto:kevomhd@gmail.com">
+<a href="mailto:kevin.bourdon@kedgebs.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail">
 </a>
 
