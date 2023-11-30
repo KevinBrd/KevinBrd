@@ -1,8 +1,8 @@
-<h1 align="center">Hello everyone 👋, I am Kévin Bourdon</h1>
+<h1 align="center">Hello everyone 👋, I am Kevin Bourdon</h1>
 
 ## About me
 - 📕 I first studied computer science from a technical point of view, based only on programming
-- 🌱 I am currently learning Data Analytics at KEDGE, France (one of the 10 best business schools in France).
+- 🌱 I am currently learning Data Analytics at KEDGE, France (one of the 8 best business schools in France).
 - 🔭 Passionate about basketball, and sports in general. I like to work on sports data.
 - 💬 I am always looking for advice and tips to improve. Do not hesitate to contact me!
 
