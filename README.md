@@ -16,7 +16,7 @@
 </div>
 <div>
   <p>
-    <a href="[https://github.com/KevinBrd/FC24_Visualisation](https://github.com/KevinBrd/FIFA_24_Visualization)">
+    <a href="https://github.com/KevinBrd/FIFA_24_Visualization">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinBrd&repo=FIFA_24_Visualization" alt="GitHub Stats" />
     </a>
   </p>
